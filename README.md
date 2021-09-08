@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ - 🌱 I’m currently learning C++&Go
+ - 📫 How to reach me: 
+    - email: skyteamwater@qq.com
+    - Github: https://github.com/SkyTeamWater
+    - qq: 18017894
+ - 😄 Pronouns: Gn3hzZ
