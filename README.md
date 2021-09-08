@@ -22,4 +22,4 @@ Here are some ideas to get you started:
  - 😄 Pronouns: Gn3hzZ
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=SkyTeamWater&show_icons=true&theme=radical&count_private=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SkyTeamWater&theme=radical&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SkyTeamWater&theme=radical&layout=compact&count_private=true)
