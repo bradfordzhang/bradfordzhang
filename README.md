@@ -20,3 +20,6 @@ Here are some ideas to get you started:
     - Github: https://github.com/SkyTeamWater
     - qq: 18017894
  - 😄 Pronouns: Gn3hzZ
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=SkyTeamWater&show_icons=true&theme=dark&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SkyTeamWater&theme=dark&layout=compact)
