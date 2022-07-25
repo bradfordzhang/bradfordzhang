@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
  - 🌱 I’m currently learning C++&Go
  - 📫 How to reach me: 
-    - email: 18017894@qq.com
+    - email: zyc@zyc.name
     - Github: https://github.com/SkyTeamWater
     - qq: 18017894
  - 😄 Pronouns: Gn3hzZ
