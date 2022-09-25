@@ -21,5 +21,5 @@ Here are some ideas to get you started:
     - qq: 18017894
  - 😄 Pronouns: Gn3hzZ
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=SkyTeamWater&show_icons=true&theme=radical&count_private=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SkyTeamWater&theme=radical&layout=compact&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=bradfordzhang&show_icons=true&theme=radical&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bradfordzhang&theme=radical&layout=compact&count_private=true)
