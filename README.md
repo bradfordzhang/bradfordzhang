@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**SkyTeamWater/SkyTeamWater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bradfordzhang/bradfordzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
  - 🌱 I’m currently learning C++&Go
  - 📫 How to reach me: 
     - email: zyc@zyc.name
-    - Github: https://github.com/SkyTeamWater
+    - Github: https://github.com/bradfordzhang
     - qq: 18017894
  - 😄 Pronouns: Gn3hzZ
 
