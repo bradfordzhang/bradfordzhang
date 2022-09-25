@@ -19,7 +19,7 @@ Here are some ideas to get you started:
     - email: zyc@zyc.name
     - Github: https://github.com/bradfordzhang
     - qq: 18017894
- - 😄 Pronouns: Gn3hzZ
+ - 😄 Pronouns: He
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=bradfordzhang&show_icons=true&theme=radical&count_private=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bradfordzhang&theme=radical&layout=compact&count_private=true)
