@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- - 🌱 I’m currently learning C++&Go
+ - 🌱 I’m currently learning C/C++&Go
  - 📫 How to reach me: 
     - email: zyc@zyc.name
     - Github: https://github.com/bradfordzhang
