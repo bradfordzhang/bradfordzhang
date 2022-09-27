@@ -20,7 +20,6 @@ Here are some ideas to get you started:
  - 📫 How to reach me: 
     - email: zyc@zyc.name
     - Github: https://github.com/bradfordzhang
-    - qq: 18017894
  - 😄 Pronouns: He
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=bradfordzhang&show_icons=true&theme=radical&count_private=true)
