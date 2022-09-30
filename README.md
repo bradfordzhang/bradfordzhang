@@ -21,6 +21,7 @@ Here are some ideas to get you started:
     - email: zyc@zyc.name
     - Github: https://github.com/bradfordzhang
  - 😄 Pronouns: He
+ - 🙏🏻 XMR: `47huutAfYFr8EC9aJxAWYgWAftkVZarGxXAxxzV1XWWPBh5VQ4H9YeHabxaRiaPDoSHg62f194WQxQ6maxX9eggATFtK58o`
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=bradfordzhang&show_icons=true&theme=radical&count_private=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bradfordzhang&theme=radical&layout=compact&count_private=true)
