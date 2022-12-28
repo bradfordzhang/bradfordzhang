@@ -25,7 +25,7 @@ Here are some ideas to get you started:
  - 🙏🏻 XMR: `47huutAfYFr8EC9aJxAWYgWAftkVZarGxXAxxzV1XWWPBh5VQ4H9YeHabxaRiaPDoSHg62f194WQxQ6maxX9eggATFtK58o`
  - 🙏🏻 Tether/USDT(TRC20): `TFxUf2zQVFeHXYQGyh1jp6T2hEMjZ9q8uq`
  - 🙏🏻 Tether/USDT(ERC20): `0x1176b6ca45E75b6FB4d6AAAd590D5BA84d4cd198`
- - 🤛 Airport recommendation: https://s.zyc.name/AUIoQWV
+ - 🤛 Airport recommendation: https://s.zyc.name/Nfn0B1l
  - 🖋️ Blog: https://blog.zyc.name/
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=bradfordzhang&show_icons=true&theme=radical&count_private=true)
