@@ -21,7 +21,6 @@ Here are some ideas to get you started:
     - email: zyc@zyc.name
     - Github: https://github.com/bradfordzhang
  - 😄 Pronouns: He
- - ❤️ Contributer of [OpenWrt](https://github.com/openwrt/openwrt)
  - 🙏🏻 XMR: `47huutAfYFr8EC9aJxAWYgWAftkVZarGxXAxxzV1XWWPBh5VQ4H9YeHabxaRiaPDoSHg62f194WQxQ6maxX9eggATFtK58o`
  - 🙏🏻 Tether/USDT(TRC20): `TFxUf2zQVFeHXYQGyh1jp6T2hEMjZ9q8uq`
  - 🙏🏻 Tether/USDT(ERC20): `0x1176b6ca45E75b6FB4d6AAAd590D5BA84d4cd198`
