@@ -1,3 +1,10 @@
+<div align="center">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bradfordzhang/bradfordzhang/output/github-contribution-grid-snake-dark.svg" />
+		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bradfordzhang/bradfordzhang/output/github-contribution-grid-snake.svg" />
+		<img src="https://raw.githubusercontent.com/bradfordzhang/bradfordzhang/output/github-contribution-grid-snake.svg" />
+	</picture> 
+</div>
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ### Hi there 👋
 
