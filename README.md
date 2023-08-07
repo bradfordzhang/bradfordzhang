@@ -18,8 +18,8 @@ Here are some ideas to get you started:
  - 🔭 I'm a high school student in China
  - 🌱 I’m currently learning C/C++&Go
  - 📫 How to reach me: 
-    - email: zyc@zyc.name
-    - Github: https://github.com/bradfordzhang
+    - Email: zyc@zyc.name
+    - Telegram: https://t.me/bradfordzhang
  - 😄 Pronouns: He
  - 🙏🏻 XMR: `47huutAfYFr8EC9aJxAWYgWAftkVZarGxXAxxzV1XWWPBh5VQ4H9YeHabxaRiaPDoSHg62f194WQxQ6maxX9eggATFtK58o`
  - 🙏🏻 Tether/USDT(TRC20): `TFxUf2zQVFeHXYQGyh1jp6T2hEMjZ9q8uq`
