@@ -28,7 +28,6 @@ Here are some ideas to get you started:
     - Email: zyc@zyc.name
     - Telegram: https://t.me/bradfordzhang
  - 😄 Pronouns: He
- - 🙏🏻 XMR: `47huutAfYFr8EC9aJxAWYgWAftkVZarGxXAxxzV1XWWPBh5VQ4H9YeHabxaRiaPDoSHg62f194WQxQ6maxX9eggATFtK58o`
  - 🙏🏻 Tether/USDT(TRC20): `TFxUf2zQVFeHXYQGyh1jp6T2hEMjZ9q8uq`
  - 🙏🏻 MATIC（Polygon): `0x1176b6ca45E75b6FB4d6AAAd590D5BA84d4cd198`
 
